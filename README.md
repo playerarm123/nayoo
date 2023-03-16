@@ -63,22 +63,22 @@ php artisan serve
 ## การใช้งาน
 
 1. การสมัครสมาชิก กรอกข้อมูลให้ครบถ้วนแล้วกดปุ่ม "Register"
-![App Screenshot](https://sv1.img.in.th/U3E8wb.jpeg)
+![App Screenshot](/screenshorts/register.jpg)
 
 2. การสร้างโพสต์ข้อความธรรมดา
-![App Screenshot](https://sv1.img.in.th/U3ECbY.jpeg)
+![App Screenshot](/screenshorts/create-normal-post.jpg)
 
 3. การสร้างโพสต์พร้อมกับแนบรูปภาพ
-![App Screenshot](https://sv1.img.in.th/U3zejk.jpeg)
+![App Screenshot](/screenshorts/create-post-with-image.jpg)
 
 4. การแก้ไขโพสต์
-![App Screenshot](https://sv1.img.in.th/U3zv93.jpeg)
+![App Screenshot](/screenshorts/edit-post.jpg)
 
 5. การลบโพสต์
-![App Screenshot](https://sv1.img.in.th/U3zspp.jpeg)
+![App Screenshot](/screenshorts/delete-post.jpg)
 
 6. การแสดงความคิดเห็น
-![App Screenshot](https://sv1.img.in.th/U3z3hz.jpeg)
+![App Screenshot](/screenshorts/add-comment.jpg)
 
 7. การเพิ่มเพื่อน
-![App Screenshot](https://sv1.img.in.th/U3zqVk.jpeg)
+![App Screenshot](/screenshorts/add-friend.jpg)
