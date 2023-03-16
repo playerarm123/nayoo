@@ -1,0 +1,42 @@
+.img-cover {
+    object-fit: cover;
+    object-position: center;
+}
+
+.avatar-sm {
+    width: 40px;
+    height: 40px;
+}
+.avatar-xs {
+    width: 25px;
+    height: 25px;
+}
+
+.post-tool-button {
+    width: 25px;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.post-tool-button:hover{
+  background-color: #eee;
+}
+.comment{
+  list-style: none;
+  padding-left: 0;
+}
+.comment .commenter-name{
+  font-size: 10px;
+}
+.comment .comment-detail{
+  font-size: 14px;
+}
+.comment .comment-footer{
+  font-size: 12px;
+}
+.comment .wrapper{
+  padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+}
